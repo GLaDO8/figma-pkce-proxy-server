@@ -2,7 +2,7 @@
   "name": "pkce-proxy",
   "version": "0.1.0",
   "description": "A barebones PKCE proxy to enable OAuth for OAuth providers that do not support PKC",
-  "main": "index.js",
+  "main": "dist/index.js",
   "engines": {
     "node": "18.x"
   },
